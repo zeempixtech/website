@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website Under Maintenance</title>
+  <style>
+    /* General Styles */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #ffffff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+      text-align: center;
+    }
+
+    /* Maintenance Container */
+    .maintenance-container {
+      max-width: 600px;
+    }
+
+    /* Title */
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.5em;
+      color: #f1c40f;
+    }
+
+    /* Message */
+    p {
+      font-size: 1.2em;
+      line-height: 1.6;
+      color: #bbbbbb;
+    }
+
+    /* Animation Icon */
+    .icon {
+      font-size: 5em;
+      margin-bottom: 1em;
+      color: #f1c40f;
+      animation: spin 2s linear infinite;
+    }
+
+    /* Keyframe for Icon Spin */
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    /* Footer */
+    footer {
+      margin-top: 2em;
+      font-size: 0.9em;
+      color: #888888;
+    }
+  </style>
+</head>
+<body>
+  <div class="maintenance-container">
+    <div class="icon">⚙️</div>
+    <h1>Under Maintenance</h1>
+    <p>We’re currently working on some updates to make the website better for you.  
+       Please check back later!</p>
+    <footer>© 2024 Zeempix Enterprise</footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" 
+    name="viewport">
+  <meta name='dmca-site-verification'     content='WThWQmsvQXZlUWpnRFcrQVhMS3Rxdz090' />
+  <title>Zeempix</title>
+    <meta content="Zeempix" property="og:title" />
+    <meta content="Zeempix providing exceptional design services that cater to the unique needs of our clients. We offer a comprehensive range of design solutions including logo design, banner design, poster design, and YouTube thumbnail making services." property="og:description" />
+    <meta content="/" property="og:url" />
+    <meta content="/assets/img/logo.png" property="og:image" />
+    <meta content="#00ACFF" data-react-helmet="true" name="theme-color" />
+    <meta name="keywords" content="Zeem Pix, zeem pix, zeempix, logo design,
+      logo design tutorial,
+Zeempix,
+Tactical clothing,
+Military-inspired fashion,
+Outdoor wear,
+Precision apparel,
+Tactical streetwear,
+Urban combat fashion,
+Military precision clothing,
+Performance wear,
+Functional fashion,
+Tactical urban wear,
+Outdoor performance clothing,
+Modern military fashion,
+Tactical chic,
+Utility clothing,
+Functional streetwear,
+Technical apparel,
+Military-inspired streetwear,
+Malaysian tactical wear,
+Zeempix Malaysia,
+Malaysian military fashion,
+Local tactical clothing brand,
+Military-inspired clothing for urban warriors,
+Tactical performance wear Malaysia,
+Modern military style clothing,
+Functional fashion for outdoor enthusiasts,
+Precision-designed tactical streetwear,
+" />
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script async src="https://arc.io/widget.min.js#AHXnvm2x"></script>
+  <!-- Favicons -->
+  
+  <link href="https://cdn.discordapp.com/attachments/871364396536963082/1315210732039831623/zeempixlogocirclelowkb.png?ex=675694f1&is=67554371&hm=3f30269385c026843823def79124d2dd1d6f862ce829a8ba8f3aa6109311b8c5&" rel="icon">
+  <link href="https://cdn.discordapp.com/attachments/871364396536963082/1315210732039831623/zeempixlogocirclelowkb.png?ex=675694f1&is=67554371&hm=3f30269385c026843823def79124d2dd1d6f862ce829a8ba8f3aa6109311b8c5&" rel="apple-touch-icon">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link rel="stylesheet" href="night.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <h1 class="logo"><a href="/">ZEEMPIX</a></h1>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="/">Home</a></li>
+          <li><a class="nav-link scrollto" href="#services">About</a></li>
+          <button id="theme-toggle" class="night-mode-btn">🌙</button>
+         <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>-->
+          
+          <li><a class="getstarted scrollto" href="https://t.me/zeempix">Telegram</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 pt-2 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+          <h1>Upgrade your outfit with Zeempix</h1>
+          <ul>
+            <li>Combining military precision with modern style, tactical-inspired clothing designed for outdoor and fashion.</li>
+          </ul>
+          <div class="mt-3">
+            <a href="https://discord.com/invite/UPCKhFk7Kg" class="btn-get-started scrollto">Contact Us</a>
+            <a href="#portfolio" class="btn-get-quote">Our Products</a>
+          </div>
+        </div>
+        <div class="col-lg-6 order-1 order-lg-2 hero-img">
+          <img src="https://cdn.discordapp.com/attachments/871364396536963082/1315210447389196308/header.png?ex=675694ae&is=6755432e&hm=44af93c3c4ea35cba729bec42f286ab84d0ca149483dea362145166e857a4731&" class="img-fluid" alt="">
+        </div>
+      </div>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    
+
+    <!-- ======= About Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <h1>this website is under development</h1>
+        </div>
+
+        
+                  
+                  
+                <!--<div class="col-lg-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                  <div class="icon-box iconbox-blue">
+                    <div class="icon">
+                      <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,521.0016835830174C376.1290562159157,517.8887921683347,466.0731472004068,529.7835943286574,510.70327084640275,468.03025145048787C554.3714126377745,407.6079735673963,508.03601936045806,328.9844924480964,491.2728898941984,256.3432110539036C474.5976632858925,184.082847569629,479.9380746630129,96.60480741107993,416.23090153303,58.64404602377083C348.86323505073057,18.502131276798302,261.93793281208167,40.57373210992963,193.5410806939664,78.93577620505333C130.42746243093433,114.334589627462,98.30271207620316,179.96522072025542,76.75703585869454,249.04625023123273C51.97151888228291,328.5150500222984,13.704378332031375,421.85034740162234,66.52175969318436,486.19268352777647C119.04800174914682,550.1803526380478,217.28368757567262,524.383925680826,300,521.0016835830174"></path>
+                      </svg>
+                      <i class="fa fa-lock"></i>
+                    </div>
+                    <h4><a>pakai sekali, sigma berhari hari</a></h4>
+                    <p>Stay Sigma</p>
+                  </div>
+                </div>-->
+
+                
+
+                
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+      </div>
+    </section><!-- End About Section -->
+
+
+
+    
+
+    <!-- ======= Frequently Asked Questions Section ======= -->
+    <section id="faq" class="faq">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Frequently Asked Questions</h2>
+        </div>
+
+        <ul class="faq-list">
+
+          <li>
+            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">How to order?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Simply fill in the Google Form provided. Make sure to include all required details such as size, quantity, and delivery address.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Where is Zeempix based? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq2" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Zeempix is based on Malaysia. For now Zeempix has no physical premise.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">What payment methods do you accept?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq3" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Bank transfer (Maybank, CIMB, etc.), Shopeepay if you're buying from out store on Shopee.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">How long does it take for my order to arrive?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                 jerseys that available for pre-orders will ship 7 days or more after it’s made.
+              </p>
+            </div>
+          </li>
+
+        </ul>
+
+      </div>
+    </section>
+    <!-- End Frequently Asked Questions Section -->
+
+  </main>
+  <!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>ZEEMPIX</h3>
+            <p>
+                <br>
+                <img width="150px" height="150px" src="https://cdn.discordapp.com/attachments/871364396536963082/1315218284467060756/Untitled-2.png?ex=67569bfa&is=67554a7a&hm=71d7bdc177246e208bbae24d2249a4f37c3c6cf6c977be8b972ee70f81a892ef&">
+             <br><br><strong>Email:</strong> contact@zeempix.my<br>
+            </p>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">About</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://t.me/zeempix">Telegram</a></li>
+              <li>
+            </ul>
+          </div>
+
+          
+        
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+          
+           
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="team" >
+           Made by <strong><span><a href="/">ZEEMPIX</a></span></strong>.
+        </div>
+      </div>
+
+      <a target=”_blank” href="https://www.dmca.com/r/27jk4mm" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_16_120.png?ID=f0cd7502-4524-4095-8623-aad073fbd451"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+      
+      <!--
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div> -->
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="night.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+</body>
+
+</html>
