@@ -1,0 +1,5 @@
+/index.html
+  Content-Security-Policy: frame-ancestors 'none';
+  X-Content-Type-Options: nosniff
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://trusted-cdns.com; object-src 'none'; base-uri 'self'; frame-src 'none';

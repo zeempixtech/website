@@ -1,4 +1,0 @@
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-Header set Content-Security-Policy “script-src 'none';”
-Header always append X-Frame-Options SAMEORIGIN
